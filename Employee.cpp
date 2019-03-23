@@ -1,5 +1,5 @@
 //
-// Created by max on 5/20/18.
+// Created by max on 5/20/18. XD
 //
 
 #include "Employee.h"
